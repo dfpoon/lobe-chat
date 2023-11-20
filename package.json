@@ -1,6 +1,6 @@
 {
   "name": "@lobehub/chat",
-  "version": "0.101.7",
+  "version": "0.102.1",
   "description": "An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application",
   "keywords": [
     "chatbot",
@@ -70,6 +70,7 @@
     "@icons-pack/react-simple-icons": "^9",
     "@lobehub/chat-plugin-sdk": "latest",
     "@lobehub/chat-plugins-gateway": "latest",
+    "@lobehub/tts": "latest",
     "@lobehub/ui": "latest",
     "@vercel/analytics": "^1",
     "ahooks": "^3",
@@ -127,8 +128,8 @@
     "@ducanh2912/next-pwa": "^9.7.2",
     "@lobehub/i18n-cli": "latest",
     "@lobehub/lint": "latest",
-    "@next/bundle-analyzer": "14.0.1",
-    "@next/eslint-plugin-next": "14.0.1",
+    "@next/bundle-analyzer": "14.0.3",
+    "@next/eslint-plugin-next": "14.0.3",
     "@testing-library/jest-dom": "^6",
     "@testing-library/react": "^14",
     "@types/chroma-js": "^2",
